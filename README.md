@@ -27,8 +27,8 @@ I am an **Analytics Engineer** specializing in modern data stacks, advanced proc
 ---
 
 ### 🚀 What I'm Currently Building & Exploring
-- 🧠 Integrating LLM Orchestration Frameworks (LangChain) with Cloud Warehouses.
-- ⚡ Leveraging **Snowflake Cortex** for native, in-database Machine Learning and AI operations.
+- 🧠 Integrating LLMs with daily tasks for productivity gains.
+- ⚡ Leveraging **Snowflake** usage for cost redutions.
 - 🐍 Deepening Python-based software engineering practices for AI applications.
 
 ---
