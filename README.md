@@ -10,7 +10,7 @@ I am an **Analytics Engineer** specializing in modern data stacks, advanced proc
 - **Modern Data Stack & Analytics:** Building scalable, reliable data models in Snowflake and dbt Cloud, utilizing Medallion Architecture to turn unstructured data into actionable insights.
 - **Advanced Automation & Integration:** Designing resilient, high-volume automation pipelines using n8n, Python, and RESTful APIs/Webhooks with minimal error rates.
 - **Business-Centric Engineering:** Deeply committed to solving real-world business bottlenecks. I build data solutions that directly drive revenue, optimize operations, and answer core strategic questions.
-- **Data & AI Convergence:** Expanding the boundaries of traditional data engineering by integrating Large Language Models (LLMs), Snowflake Cortex, and AI-driven workflows into production environments.
+- **Data & AI Convergence:** Expanding the boundaries of traditional data engineering by integrating Large Language Models (LLMs), Snowflake, and AI-driven workflows into production environments.
 
 ---
 
